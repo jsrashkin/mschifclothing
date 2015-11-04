@@ -1,4 +1,4 @@
-CatOMatic
+M$CHIF Clothing
 =========
 
-Catalog scrape and browser HTML5/Java app for browsers and native OS. 
+Website for mschif clothing sales: retail and wholesale POS, DB for App,  
